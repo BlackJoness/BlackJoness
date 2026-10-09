@@ -18,6 +18,23 @@ Controle de acesso por perfil, gestão de recursos e dashboard. O briefing tinha
 
 Node.js · Express · PostgreSQL · Prisma · React · TypeScript · Docker
 
+## Trabalho com cliente
+
+**[New Site · Agência 24/7](https://agencia-24-7.web.app)** · site no ar
+
+Direção de produto e design do novo site de uma agência de mídia paga AI-native. O problema: o site não transmitia presença humana nem identidade tecnológica. A resposta: uma pessoa num jardim lê no celular o que o agente da agência faz pela empresa dela, e só aprova o que muda o combinado.
+
+| Etapa | O que fiz |
+|---|---|
+| Descoberta | Problema registrado com critério de pronto: presença humana, identidade tecnológica e desempenho |
+| Especificação | Guia de implementação e backlog no Linear, uma issue por entrega |
+| Validação | Protótipo navegável aprovado antes de qualquer mudança em produção |
+| Entrega | Refatoração visual e responsiva no código, junto com o dev da agência |
+
+Código privado da agência; divulgação autorizada.
+
+HTML · CSS · JavaScript · Firebase · GitHub Actions · Linear
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/filipe-jones/) · Recife, Brasil
