@@ -1,6 +1,6 @@
 # Filipe Jones
 
-Em transição para Produto. Chego com três bagagens que raramente aparecem juntas: formação em Direito (Unicap), dois anos como fundador de uma produtora audiovisual e treze meses de formação Full Stack. Desde setembro de 2026 curso a formação de Product Manager da PM3.
+Em transição para Produto. Chego com três bagagens que raramente aparecem juntas: formação em Direito (Unicap), dois anos como fundador de uma produtora audiovisual e treze meses de formação Full Stack. Desde outubro de 2026 curso a formação de Product Manager da PM3.
 
 O que me interessa: entender como a operação de alguém funciona de verdade, transformar isso em escopo com critério de sucesso e conversar com engenharia sem intermediário. Aprendi a programar para entender o custo do que peço.
 
